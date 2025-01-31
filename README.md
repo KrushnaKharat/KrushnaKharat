@@ -49,6 +49,6 @@ Feel free to connect with me on [Social Media Platform] or send me an email at [
 Thanks for visiting my profile!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrushnaKharat&show_icons=true)
-![GitHub Stats]()
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KrushnaKharat&show_icons=true&locale=en&layout=compact" alt="chetankrishna07" height="400px" width="500px" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KrushnaKharat&show_icons=true&locale=en&layout=compact" alt="chetankrishna07" height="300px" width="100%" /></p>
 
