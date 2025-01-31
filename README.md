@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I am a passionate developer with interests in vari
 ## Languages and Tools:
 <p align="left"> 
 
-<a href="https://docs.oracle.com/en/java/"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="java" width="40" height="40"/> </a>
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
