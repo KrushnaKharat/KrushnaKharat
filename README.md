@@ -52,7 +52,6 @@ Thanks for visiting my profile!
 
 <p style="display: flex;
   justify-content:center;
-  gap:2;
   color:pink;
   ">
 <!--   ![GitHub Stats]() -->
