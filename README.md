@@ -1,12 +1,13 @@
 # Hi there, I'm Krushna! 👋
 
-Welcome to my GitHub profile! I am a passionate developer with interests in various technologies and projects. Here's a bit about me:
+I'm Krushna, a passionate software developer, with a love for building scalable applications, exploring new technologies. I thrive on turning ideas into reality through code and enjoy working on projects that make a meaningful impact.
 
 ## About Me
 - 💻 I'm a Software Developer.
 - 🌱 I’m currently learning Generative AI, Cloud Computing.
 - 💬 Ask me about Web Development, Spring Boot, APIs...
 - 📫 How to reach me: krishaakharat@gmail.com
+- 🚀 Goals: I’m passionate about contributing to open-source, building scalable systems.
 
   
 ## Get in Touch
