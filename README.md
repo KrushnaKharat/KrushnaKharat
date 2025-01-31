@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Krushna! 👋
 
-<!--
-**KrushnaKharat/KrushnaKharat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a passionate developer with interests in various technologies and projects. Here's a bit about me:
 
-Here are some ideas to get you started:
+## About Me
+- 💻 I'm a software developer with experience in [Your Technologies]
+- 🌱 I’m currently learning [New Technology or Skill]
+- 💬 Ask me about [Topics you are knowledgeable in]
+- 📫 How to reach me: [Your Contact Information, e.g., Email, LinkedIn]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Here are some of my favorite projects:
+- [Project 1](link-to-project) - Brief description of Project 1
+- [Project 2](link-to-project) - Brief description of Project 2
+- [Project 3](link-to-project) - Brief description of Project 3
+
+## Skills
+- Programming Languages: [Languages you're proficient in]
+- Frameworks: [Frameworks you use]
+- Tools: [Tools you use]
+
+## Interests
+- [Interest 1]
+- [Interest 2]
+- [Interest 3]
+
+## Get in Touch
+Feel free to connect with me on [Social Media Platform] or send me an email at [Your Email].
+
+Thanks for visiting my profile!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrushnaKharat&show_icons=true)
