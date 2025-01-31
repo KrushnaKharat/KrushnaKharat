@@ -8,7 +8,7 @@ I'm Krushna, a passionate software developer, with a love for building scalable 
 - 💬 Ask me about Web Development, Spring Boot, APIs...
 - 📫 How to reach me: krishaakharat@gmail.com
 - 🚀 Goals: I’m passionate about contributing to open-source, building scalable systems.
-- 📄 More about me <a href="https://drive.google.com/file/d/1rWcYPdV8XLjtsaZeXQDeOVs6qA4wICgh/view?usp=sharing" style="font-size: 10px" > Here </a>
+- 📄 More about me <a href="https://drive.google.com/file/d/1rWcYPdV8XLjtsaZeXQDeOVs6qA4wICgh/view?usp=sharing" style="font-size: 10px" > (here) </a>
 
   
 ## Get in Touch
