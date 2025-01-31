@@ -52,12 +52,14 @@ Thanks for visiting my profile!
 
 <p style="display: flex;
   justify-content:center;
-  background-color: red;">
+  gap:2;
+  color:pink;
+  ">
 <!--   ![GitHub Stats]() -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KrushnaKharat&show_icons=true" alt="chetankrishna07" height="200px" 
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KrushnaKharat&show_icons=true" alt="chetankrishna07" 
     />
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KrushnaKharat&show_icons=true&locale=en&layout=compact" alt="chetankrishna07" height="200px" 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KrushnaKharat&show_icons=true&locale=en&layout=compact" alt="chetankrishna07"  
     />
 </p>
 
