@@ -8,6 +8,13 @@ Welcome to my GitHub profile! I am a passionate developer with interests in vari
 - 💬 Ask me about Web Development, Spring Boot, APIs...
 - 📫 How to reach me: krishaakharat@gmail.com
 
+  
+## Get in Touch
+<p align="left">
+<a href="https://www.linkedin.com/in/shrikrushna-kharat-248818212/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="Krushna Kharat" height="30" width="40" /></a>
+<a href="https://www.instagram.com/i.am_krishnaa_?utm_source=qr&igsh=c3lrajZlZHl2aGRo " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chetan_naruto07" height="30" width="40" /></a>
+</p>
+
 ## Languages and Tools:
 <p align="left"> 
 
@@ -31,20 +38,6 @@ Welcome to my GitHub profile! I am a passionate developer with interests in vari
 
 </p>
 
-
-## Get in Touch
-<p align="left">
-<a href="https://www.linkedin.com/in/shrikrushna-kharat-248818212/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="Krushna Kharat" height="30" width="40" /></a>
-<a href="https://www.instagram.com/i.am_krishnaa_?utm_source=qr&igsh=c3lrajZlZHl2aGRo " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chetan_naruto07" height="30" width="40" /></a>
-</p>
-
-## Interests
-- [Interest 1]
-- [Interest 2]
-- [Interest 3]
-
-
-Thanks for visiting my profile!
 
 
 
