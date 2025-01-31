@@ -50,5 +50,5 @@ Thanks for visiting my profile!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrushnaKharat&show_icons=true)
 ![GitHub Stats]()
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KrushnaKharat&show_icons=true&locale=en&layout=compact" alt="chetankrishna07" height="100px" width="50%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KrushnaKharat&show_icons=true&locale=en&layout=compact" alt="chetankrishna07" height="400px" width="500px" /></p>
 
