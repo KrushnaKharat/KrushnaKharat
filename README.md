@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I am a passionate developer with interests in vari
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
+## Get in Touch
 <p align="left">
 <a href="https://www.linkedin.com/in/shrikrushna-kharat-248818212/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="Krushna Kharat" height="30" width="40" /></a>
 <a href="https://www.instagram.com/i.am_krishnaa_?utm_source=qr&igsh=c3lrajZlZHl2aGRo " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chetan_naruto07" height="30" width="40" /></a>
@@ -43,20 +43,17 @@ Welcome to my GitHub profile! I am a passionate developer with interests in vari
 - [Interest 2]
 - [Interest 3]
 
-## Get in Touch
-Feel free to connect with me on [Social Media Platform] or send me an email at [Your Email].
 
 Thanks for visiting my profile!
 
 
 
 <p>
-<!--   ![GitHub Stats]() -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KrushnaKharat&show_icons=true" alt="chetankrishna07" 
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KrushnaKharat&show_icons=true" alt="Krushna Kharat" 
     height="210px" 
     />
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KrushnaKharat&show_icons=true&locale=en&layout=compact" alt="chetankrishna07" height="210px"
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KrushnaKharat&show_icons=true&locale=en&layout=compact" alt="Krushna Kharat" height="210px"
     />
 </p>
 
