@@ -57,9 +57,10 @@ Thanks for visiting my profile!
   ">
 <!--   ![GitHub Stats]() -->
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=KrushnaKharat&show_icons=true" alt="chetankrishna07" 
+    height="250px"
     />
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KrushnaKharat&show_icons=true&locale=en&layout=compact" alt="chetankrishna07"  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KrushnaKharat&show_icons=true&locale=en&layout=compact" alt="chetankrishna07"  height="250px"
     />
 </p>
 
