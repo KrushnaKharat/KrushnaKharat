@@ -4,7 +4,7 @@ I'm Krushna, a passionate software developer, with a love for building scalable 
 
 ## About Me
 - 💻 I'm a Software Developer.
-- 🌱 I’m currently learning Generative AI, Cloud Computing.
+- 🌱 I’m currently learning Generative AI.
 - 💬 Ask me about Web Development, Spring Boot, APIs...
 - 📫 How to reach me: krishaakharat@gmail.com
 - 🚀 Goals: I’m passionate about contributing to open-source, building scalable systems.
